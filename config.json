@@ -1,0 +1,14 @@
+{
+    "token": "Your bot token",
+    "client": "link to connect to your mongodb client",
+    "langs": ["en", "ar", "fr", "hi", "af", "sq", "am", "hy", "az", "eu", "be", "bn", "bs", "bg", "ca", "ceb",
+        "ny", "zh-cn", "zh-tw", "co", "hr", "cs", "da", "nl", "eo", "et", "tl", "fi", "fy", "gl", "ka", "de", "el",
+        "gu", "ht", "ha", "haw", "iw", "he", "hmn", "hu", "is", "ig", "id", "ga", "it", "ja", "jw", "kn", "kk",
+        "km", "ko", "ku", "ky", "lo", "la", "lv", "lt", "lb", "mk", "mg", "ms", "ml", "mt", "mi", "mr", "mn", "my",
+        "ne", "no", "ps", "fa", "pl", "pt", "pa", "ro", "ru", "sm", "gd", "sr", "st", "sn", "sd", "si", "sk",
+        "sl", "so", "es", "su", "sw", "sv", "tg", "ta", "te", "th", "tr", "uk", "ur", "uz", "vi", "cy", "xh",
+        "yi", "yo", "zu"],
+    "dkey1": "langdetect token1",
+    "dkey2": "langdetect token2",
+    "dkey3": "langdetect token3"
+}
