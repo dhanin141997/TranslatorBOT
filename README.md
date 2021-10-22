@@ -4,7 +4,7 @@ it is a simple and powerful discord bot, it been used for translating includes m
 
 
 
-# Getting Started
+## Getting Started
 
 First let me show you the commands and then i will show you how to set it up
 
@@ -32,7 +32,7 @@ the commands:
 
 
 
-# Now i will show you how to set up the bot
+## Now i will show you how to set up the bot
 
 First go to <a href='https://discord.com/developers/applications'>Discord developer portal</a> and login after you logged in with you discord account follow this steps
 
@@ -72,7 +72,7 @@ And then copy the invite link and invite it to your server.
 
 
 
-# Now lets set up the database
+## Now lets set up the database
 
 First Go to <a href='https://www.mongodb.com/'>MongoDB</a> and create an account and then follow this setps
 
